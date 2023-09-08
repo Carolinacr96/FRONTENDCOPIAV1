@@ -1,3 +1,5 @@
+export * from './datails-delete-form';
+export * from './detail-update-form';
 export * from './head-table';
-export { default as InfoProduct } from './info-product/InfoProduct';
+export * from './info-product';
 export * from './table-details';
